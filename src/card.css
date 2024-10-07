@@ -1,0 +1,79 @@
+body{
+    background-color:aliceblue;
+    font-family:'Gill Sans';
+}
+
+.card-container
+{
+    background-color:rgb(231, 171, 94);
+    border-radius:6px;
+    overflow: hidden;
+    max-width:300px;
+    margin: 100px auto;
+    box-shadow: 0 10px 40px -14px gray;
+
+}
+
+.card-header{
+    background-color: rgb(106, 103, 103);
+    padding:14px 18px;
+    font-size: 18px;
+}
+
+.card-header span{
+    display: inline-block;
+    border-radius: 50%;
+    background-color:aliceblue;
+    height:40px;
+    width:40px;
+    vertical-align:middle;
+    margin-right:15px;
+    color:beige;
+    font-size: inherit;
+    position:relative;
+}
+
+.card_header span:after{
+    content:attr(initials);
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.card-header h2{
+    display: inline;
+    font-weight: normal;
+    color:aliceblue;
+    font-size:inherit;
+    vertical-align: middle;
+    margin:0;
+
+}
+main{
+    padding:22px 10px;
+}
+
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+li{
+    margin :0 0 11px;
+    color:black;
+}
+
+li:last-child{
+    margin-bottom:0;
+}
+li span{
+    color:grey;
+    display: inline-block;
+    min-width:95px;
+    text-align:right;
+    margin-right:12px;
+    text-transform: uppercase;
+    font-size:15px;
+    letter-spacing: 1px;
+}
