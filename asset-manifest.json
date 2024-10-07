@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cladentteamfornaavisit/static/css/main.641edee9.css",
+    "main.js": "/cladentteamfornaavisit/static/js/main.fd6f214b.js",
+    "static/js/453.e2178a37.chunk.js": "/cladentteamfornaavisit/static/js/453.e2178a37.chunk.js",
+    "static/media/aa.png": "/cladentteamfornaavisit/static/media/aa.cf49e132a32bae3a5c33.png",
+    "static/media/a.png": "/cladentteamfornaavisit/static/media/a.009858a27f7e9f1944fd.png",
+    "static/media/pu.png": "/cladentteamfornaavisit/static/media/pu.0c3c5e6586d6a3a16254.png",
+    "index.html": "/cladentteamfornaavisit/index.html",
+    "main.641edee9.css.map": "/cladentteamfornaavisit/static/css/main.641edee9.css.map",
+    "main.fd6f214b.js.map": "/cladentteamfornaavisit/static/js/main.fd6f214b.js.map",
+    "453.e2178a37.chunk.js.map": "/cladentteamfornaavisit/static/js/453.e2178a37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641edee9.css",
+    "static/js/main.fd6f214b.js"
+  ]
+}
