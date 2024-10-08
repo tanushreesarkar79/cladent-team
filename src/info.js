@@ -40,7 +40,7 @@ const containerStyle = {
 
 const titleStyle = {
     
-    margin:'0',
+  /*  margin:'0',*/
     fontSize: '1.2em',
     fontWeight: 'bold',
 };
