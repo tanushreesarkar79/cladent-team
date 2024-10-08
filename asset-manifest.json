@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cladent-team/static/css/main.641edee9.css",
-    "main.js": "/cladent-team/static/js/main.440bd358.js",
+    "main.css": "/cladent-team/static/css/main.21676b32.css",
+    "main.js": "/cladent-team/static/js/main.d320eac4.js",
     "static/js/453.e2178a37.chunk.js": "/cladent-team/static/js/453.e2178a37.chunk.js",
     "static/media/aa.png": "/cladent-team/static/media/aa.cf49e132a32bae3a5c33.png",
     "static/media/a.png": "/cladent-team/static/media/a.009858a27f7e9f1944fd.png",
     "static/media/pu.png": "/cladent-team/static/media/pu.0c3c5e6586d6a3a16254.png",
     "index.html": "/cladent-team/index.html",
-    "main.641edee9.css.map": "/cladent-team/static/css/main.641edee9.css.map",
-    "main.440bd358.js.map": "/cladent-team/static/js/main.440bd358.js.map",
+    "main.21676b32.css.map": "/cladent-team/static/css/main.21676b32.css.map",
+    "main.d320eac4.js.map": "/cladent-team/static/js/main.d320eac4.js.map",
     "453.e2178a37.chunk.js.map": "/cladent-team/static/js/453.e2178a37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.641edee9.css",
-    "static/js/main.440bd358.js"
+    "static/css/main.21676b32.css",
+    "static/js/main.d320eac4.js"
   ]
 }
