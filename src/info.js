@@ -22,7 +22,7 @@ const cardStyle = {
    
     margin: '0px',
     width: '320px',
-    height:'61px',
+   /*  height:'61px', */
     boxShadow: '10px 10px 5px rgba(0, 0, 0, 0.1)',
     
     flexDirection: 'column',
@@ -39,7 +39,7 @@ const containerStyle = {
 };
 
 const titleStyle = {
-    marginTop:'19px',
+    
     margin:'0',
     fontSize: '1.2em',
     fontWeight: 'bold',

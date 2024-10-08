@@ -15,6 +15,10 @@
   text-align: center;
   flex: 1;
 }
+.info-column3 {
+padding-right: 40px;
+}
+
 
 @media (min-width: 768px) and (max-width: 1024px) {
   .info-column1 {
@@ -83,8 +87,12 @@
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
+  filter: drop-shadow(10px 22px 25px #000000);
 }
-
+.screen-content2 {
+  padding-left: 40px;
+  padding-top: 30px;
+}
 .university-logo {
   width: 40%;
   height: auto;
@@ -122,16 +130,25 @@
       flex-direction: column;
   }
 
-  .info-column1,
-  .info-column2,
-  .info-column3 {
-      width: 100%;
-  }
+
 
   /* Adjust padding and margins */
-  .info-column1, .info-column2, .info-column3 {
+  .info-column1 {
+    padding: 15px;
+    width: 150%;
+   
+}
+.info-column2 {
+  padding: 15px;
+  width: 150%;
+ 
+}
+.info-column3 {
       padding: 15px;
+      width: 150%;
+     
   }
+  
 
   .cardStyle {
       width: 100%;
